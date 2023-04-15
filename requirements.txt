@@ -1,5 +1,5 @@
 pandas
 streamlit
 requests
-linear_kernel
-TfidfVectorizer
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
