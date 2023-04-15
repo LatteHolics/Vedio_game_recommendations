@@ -1,5 +1,4 @@
 pandas
 streamlit
 requests
-sklearn.feature_extraction.text
-sklearn.metrics.pairwise
+scikit-learn
